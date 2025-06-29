@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Hacked By ObinXyz</title>
+  <style>
+    body {
+      background-color: black;
+      color: white;
+      font-family: 'Courier New', monospace;
+      text-align: center;
+      padding: 40px;
+    }
+
+    h1 {
+      color: #00ff00;
+      font-size: 48px;
+      text-shadow: 0 0 10px #00ff00;
+      margin-top: 20px;
+    }
+
+    .logo {
+      width: 300px;
+      height: 300px;
+      border-radius: 50%;
+      object-fit: cover;
+      margin: 20px auto;
+      display: block;
+    }
+
+    p {
+      font-size: 18px;
+      max-width: 700px;
+      margin: 30px auto;
+      line-height: 1.8;
+      color: #ccc;
+    }
+
+    .footer {
+      margin-top: 50px;
+      font-size: 14px;
+      color: #888;
+    }
+
+    audio {
+      display: none;
+    }
+  </style>
+</head>
+<body>
+
+  <img src="obinxyz.png" alt="ObinXyz" class="logo">
+
+  <h1>Hacked By ObinXyz</h1>
+
+  <p>
+      ini hanyalah peringatan ke pemilik situs ini.<br>
+    tidak ada system yg safe dan aman indo memiliki situs web yg sangat rentan di bobol oleh oknum.<br><br>
+    "Belajar bukan untuk merusak, tapi untuk memahami dan melindungi."
+  </p>
+
+  <audio autoplay loop>
+    <source src="audio.mp3" type="audio/mpeg">
+  </audio>
+
+  <div class="footer">
+    &copy; 2025 ObinXyz Cyber Team | TANGERANG CYBER SCCURITY
+  </div>
+
+</body>
+</html>
